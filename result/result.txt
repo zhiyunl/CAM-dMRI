@@ -1,0 +1,1288 @@
+
+Validation Epoch: Epoch loss: 0.5868, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.5801, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.5400, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.5050, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.5675, Accuracy: 827/844 (97.986%)
+
+Validation Epoch: Epoch loss: 0.5930, Accuracy: 744/844 (88.152%)
+
+Validation Epoch: Epoch loss: 0.7590, Accuracy: 193/844 (22.867%)
+
+Validation Epoch: Epoch loss: 0.6904, Accuracy: 418/844 (49.526%)
+
+Validation Epoch: Epoch loss: 0.4925, Accuracy: 814/844 (96.445%)
+
+Validation Epoch: Epoch loss: 0.6204, Accuracy: 558/844 (66.114%)
+
+Validation Epoch: Epoch loss: 0.7425, Accuracy: 462/844 (54.739%)
+
+Validation Epoch: Epoch loss: 0.2590, Accuracy: 782/844 (92.654%)
+
+Validation Epoch: Epoch loss: 0.2147, Accuracy: 833/844 (98.697%)
+
+Validation Epoch: Epoch loss: 0.6099, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.6069, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.6324, Accuracy: 731/844 (86.611%)
+
+Validation Epoch: Epoch loss: 0.6237, Accuracy: 785/844 (93.009%)
+
+Validation Epoch: Epoch loss: 0.5558, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.6161, Accuracy: 700/844 (82.938%)
+
+Validation Epoch: Epoch loss: 0.5053, Accuracy: 837/844 (99.171%)
+
+Validation Epoch: Epoch loss: 0.8308, Accuracy: 171/844 (20.261%)
+
+Validation Epoch: Epoch loss: 0.4848, Accuracy: 789/844 (93.483%)
+
+Validation Epoch: Epoch loss: 0.5907, Accuracy: 592/844 (70.142%)
+
+Validation Epoch: Epoch loss: 0.5725, Accuracy: 693/844 (82.109%)
+
+Validation Epoch: Epoch loss: 0.2374, Accuracy: 794/844 (94.076%)
+
+Validation Epoch: Epoch loss: 0.5457, Accuracy: 627/844 (74.289%)
+
+Validation Epoch: Epoch loss: 0.5773, Accuracy: 600/844 (71.090%)
+
+Validation Epoch: Epoch loss: 0.0899, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.1308, Accuracy: 807/844 (95.616%)
+
+Validation Epoch: Epoch loss: 0.0627, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.5568, Accuracy: 653/844 (77.370%)
+
+Validation Epoch: Epoch loss: 0.0518, Accuracy: 829/844 (98.223%)
+
+Validation Epoch: Epoch loss: 0.0478, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.2229, Accuracy: 769/844 (91.114%)
+
+Validation Epoch: Epoch loss: 0.0602, Accuracy: 821/844 (97.275%)
+
+Validation Epoch: Epoch loss: 0.3381, Accuracy: 726/844 (86.019%)
+
+Validation Epoch: Epoch loss: 0.2689, Accuracy: 765/844 (90.640%)
+
+Validation Epoch: Epoch loss: 0.2037, Accuracy: 777/844 (92.062%)
+
+Validation Epoch: Epoch loss: 0.1300, Accuracy: 805/844 (95.379%)
+
+Validation Epoch: Epoch loss: 0.0377, Accuracy: 831/844 (98.460%)
+
+Validation Epoch: Epoch loss: 0.0430, Accuracy: 833/844 (98.697%)
+
+Validation Epoch: Epoch loss: 0.0541, Accuracy: 831/844 (98.460%)
+
+Validation Epoch: Epoch loss: 0.0298, Accuracy: 835/844 (98.934%)
+
+Validation Epoch: Epoch loss: 0.0317, Accuracy: 834/844 (98.815%)
+
+Validation Epoch: Epoch loss: 0.0205, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0206, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0384, Accuracy: 831/844 (98.460%)
+
+Validation Epoch: Epoch loss: 0.0437, Accuracy: 827/844 (97.986%)
+
+Validation Epoch: Epoch loss: 0.0224, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.0147, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.0467, Accuracy: 830/844 (98.341%)
+
+Validation Epoch: Epoch loss: 0.1198, Accuracy: 804/844 (95.261%)
+
+Validation Epoch: Epoch loss: 0.0062, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0225, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0076, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0098, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.1711, Accuracy: 788/844 (93.365%)
+
+Validation Epoch: Epoch loss: 0.0020, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0333, Accuracy: 832/844 (98.578%)
+
+Validation Epoch: Epoch loss: 0.0133, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0115, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0114, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.0361, Accuracy: 828/844 (98.104%)
+
+Validation Epoch: Epoch loss: 0.0485, Accuracy: 829/844 (98.223%)
+
+Validation Epoch: Epoch loss: 0.0131, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0515, Accuracy: 826/844 (97.867%)
+
+Validation Epoch: Epoch loss: 0.0836, Accuracy: 814/844 (96.445%)
+
+Validation Epoch: Epoch loss: 0.0169, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0348, Accuracy: 832/844 (98.578%)
+
+Validation Epoch: Epoch loss: 0.0030, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0239, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0080, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0005, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0054, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0018, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.1479, Accuracy: 799/844 (94.668%)
+
+Validation Epoch: Epoch loss: 0.0128, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0252, Accuracy: 837/844 (99.171%)
+
+Validation Epoch: Epoch loss: 0.0012, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0650, Accuracy: 824/844 (97.630%)
+
+Validation Epoch: Epoch loss: 0.0181, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0085, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0176, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0041, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0104, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0210, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0321, Accuracy: 836/844 (99.052%)
+
+Validation Epoch: Epoch loss: 0.0027, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0202, Accuracy: 837/844 (99.171%)
+
+Validation Epoch: Epoch loss: 0.0005, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0003, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0228, Accuracy: 836/844 (99.052%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0075, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0374, Accuracy: 832/844 (98.578%)
+
+Validation Epoch: Epoch loss: 0.0025, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0094, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0417, Accuracy: 834/844 (98.815%)
+
+Validation Epoch: Epoch loss: 0.0059, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0023, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0397, Accuracy: 831/844 (98.460%)
+
+Validation Epoch: Epoch loss: 0.0031, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0061, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0011, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0046, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0011, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0030, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.1241, Accuracy: 807/844 (95.616%)
+
+Validation Epoch: Epoch loss: 0.0154, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.0001, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0532, Accuracy: 832/844 (98.578%)
+
+Validation Epoch: Epoch loss: 0.0265, Accuracy: 835/844 (98.934%)
+
+Validation Epoch: Epoch loss: 0.0094, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0009, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0025, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0106, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0042, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0089, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0001, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0038, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0039, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0011, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0091, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0008, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0107, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0504, Accuracy: 824/844 (97.630%)
+
+Validation Epoch: Epoch loss: 0.0017, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0035, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0029, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0148, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0052, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0045, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0025, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0070, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0222, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0012, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0223, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0130, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0022, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0204, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0002, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0321, Accuracy: 834/844 (98.815%)
+
+Validation Epoch: Epoch loss: 0.0007, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0041, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0956, Accuracy: 821/844 (97.275%)
+
+Validation Epoch: Epoch loss: 0.0005, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0161, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.0057, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0006, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0017, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0008, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0113, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0006, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0188, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0041, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0027, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0100, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0038, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0006, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0036, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0024, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0398, Accuracy: 833/844 (98.697%)
+
+Validation Epoch: Epoch loss: 0.0005, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.4833, Accuracy: 719/844 (85.190%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0015, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0099, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0177, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0021, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0020, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0163, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0138, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0320, Accuracy: 836/844 (99.052%)
+
+Validation Epoch: Epoch loss: 0.0160, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0103, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0014, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0142, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0086, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0128, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0050, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0234, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0202, Accuracy: 837/844 (99.171%)
+
+Validation Epoch: Epoch loss: 0.0007, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0101, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0035, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0085, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0109, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0166, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.0290, Accuracy: 835/844 (98.934%)
+
+Validation Epoch: Epoch loss: 0.0005, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0401, Accuracy: 830/844 (98.341%)
+
+Validation Epoch: Epoch loss: 0.0081, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0080, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0010, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0088, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0097, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0001, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0023, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0008, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0538, Accuracy: 826/844 (97.867%)
+
+Validation Epoch: Epoch loss: 0.0007, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0004, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0037, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0497, Accuracy: 825/844 (97.749%)
+
+Validation Epoch: Epoch loss: 0.0013, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0033, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.5488, Accuracy: 594/844 (70.379%)
+
+Validation Epoch: Epoch loss: 2.5545, Accuracy: 43/844 (5.095%)
+
+Validation Epoch: Epoch loss: 5.8564, Accuracy: 2/844 (0.237%)
+
+Validation Epoch: Epoch loss: 0.3721, Accuracy: 706/844 (83.649%)
+
+Validation Epoch: Epoch loss: 0.0103, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0215, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.3079, Accuracy: 729/844 (86.374%)
+
+Validation Epoch: Epoch loss: 1.6634, Accuracy: 268/844 (31.754%)
+
+Validation Epoch: Epoch loss: 0.0006, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 1.3944, Accuracy: 337/844 (39.929%)
+
+Validation Epoch: Epoch loss: 0.3474, Accuracy: 710/844 (84.123%)
+
+Validation Epoch: Epoch loss: 0.0010, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.1275, Accuracy: 813/844 (96.327%)
+
+Validation Epoch: Epoch loss: 0.0952, Accuracy: 827/844 (97.986%)
+
+Validation Epoch: Epoch loss: 4.6986, Accuracy: 13/844 (1.540%)
+
+Validation Epoch: Epoch loss: 1.4574, Accuracy: 271/844 (32.109%)
+
+Validation Epoch: Epoch loss: 0.8273, Accuracy: 474/844 (56.161%)
+
+Validation Epoch: Epoch loss: 1.4417, Accuracy: 261/844 (30.924%)
+
+Validation Epoch: Epoch loss: 1.5292, Accuracy: 247/844 (29.265%)
+
+Validation Epoch: Epoch loss: 0.0298, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 1.5196, Accuracy: 285/844 (33.768%)
+
+Validation Epoch: Epoch loss: 0.0064, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.1475, Accuracy: 807/844 (95.616%)
+
+Validation Epoch: Epoch loss: 0.2982, Accuracy: 730/844 (86.493%)
+
+Validation Epoch: Epoch loss: 0.0382, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0132, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0026, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.2830, Accuracy: 749/844 (88.744%)
+
+Validation Epoch: Epoch loss: 0.2120, Accuracy: 770/844 (91.232%)
+
+Validation Epoch: Epoch loss: 0.6092, Accuracy: 582/844 (68.957%)
+
+Validation Epoch: Epoch loss: 0.4155, Accuracy: 670/844 (79.384%)
+
+Validation Epoch: Epoch loss: 0.0932, Accuracy: 821/844 (97.275%)
+
+Validation Epoch: Epoch loss: 2.1255, Accuracy: 174/844 (20.616%)
+
+Validation Epoch: Epoch loss: 0.1617, Accuracy: 803/844 (95.142%)
+
+Validation Epoch: Epoch loss: 2.1064, Accuracy: 162/844 (19.194%)
+
+Validation Epoch: Epoch loss: 3.0472, Accuracy: 115/844 (13.626%)
+
+Validation Epoch: Epoch loss: 1.3579, Accuracy: 301/844 (35.664%)
+
+Validation Epoch: Epoch loss: 0.0557, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 2.7766, Accuracy: 98/844 (11.611%)
+
+Validation Epoch: Epoch loss: 1.8546, Accuracy: 213/844 (25.237%)
+
+Validation Epoch: Epoch loss: 0.4238, Accuracy: 676/844 (80.095%)
+
+Validation Epoch: Epoch loss: 3.6637, Accuracy: 43/844 (5.095%)
+
+Validation Epoch: Epoch loss: 0.0041, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 1.6437, Accuracy: 296/844 (35.071%)
+
+Validation Epoch: Epoch loss: 0.5929, Accuracy: 589/844 (69.787%)
+
+Validation Epoch: Epoch loss: 0.0017, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 1.4135, Accuracy: 327/844 (38.744%)
+
+Validation Epoch: Epoch loss: 0.0012, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0180, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.3012, Accuracy: 734/844 (86.967%)
+
+Validation Epoch: Epoch loss: 1.8968, Accuracy: 266/844 (31.517%)
+
+Validation Epoch: Epoch loss: 0.0781, Accuracy: 825/844 (97.749%)
+
+Validation Epoch: Epoch loss: 0.3124, Accuracy: 727/844 (86.137%)
+
+Validation Epoch: Epoch loss: 2.3724, Accuracy: 208/844 (24.645%)
+
+Validation Epoch: Epoch loss: 0.0358, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.2207, Accuracy: 770/844 (91.232%)
+
+Validation Epoch: Epoch loss: 0.7735, Accuracy: 516/844 (61.137%)
+
+Validation Epoch: Epoch loss: 0.2098, Accuracy: 770/844 (91.232%)
+
+Validation Epoch: Epoch loss: 0.0068, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0225, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 0.0155, Accuracy: 842/844 (99.763%)
+
+Validation Epoch: Epoch loss: 1.1475, Accuracy: 401/844 (47.512%)
+
+Validation Epoch: Epoch loss: 0.1364, Accuracy: 805/844 (95.379%)
+
+Validation Epoch: Epoch loss: 0.0018, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0877, Accuracy: 820/844 (97.156%)
+
+Validation Epoch: Epoch loss: 0.0004, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0054, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0091, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.1656, Accuracy: 794/844 (94.076%)
+
+Validation Epoch: Epoch loss: 1.8411, Accuracy: 185/844 (21.919%)
+
+Validation Epoch: Epoch loss: 0.0003, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.2353, Accuracy: 758/844 (89.810%)
+
+Validation Epoch: Epoch loss: 0.6788, Accuracy: 591/844 (70.024%)
+
+Validation Epoch: Epoch loss: 0.0470, Accuracy: 827/844 (97.986%)
+
+Validation Epoch: Epoch loss: 0.2977, Accuracy: 735/844 (87.085%)
+
+Validation Epoch: Epoch loss: 0.0707, Accuracy: 827/844 (97.986%)
+
+Validation Epoch: Epoch loss: 0.0012, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0955, Accuracy: 818/844 (96.919%)
+
+Validation Epoch: Epoch loss: 0.4341, Accuracy: 674/844 (79.858%)
+
+Validation Epoch: Epoch loss: 1.9504, Accuracy: 212/844 (25.118%)
+
+Validation Epoch: Epoch loss: 0.0615, Accuracy: 829/844 (98.223%)
+
+Validation Epoch: Epoch loss: 0.0024, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.2675, Accuracy: 747/844 (88.507%)
+
+Validation Epoch: Epoch loss: 0.3151, Accuracy: 724/844 (85.782%)
+
+Validation Epoch: Epoch loss: 0.0166, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0261, Accuracy: 839/844 (99.408%)
+
+Validation Epoch: Epoch loss: 0.7934, Accuracy: 553/844 (65.521%)
+
+Validation Epoch: Epoch loss: 0.0957, Accuracy: 813/844 (96.327%)
+
+Validation Epoch: Epoch loss: 0.7224, Accuracy: 549/844 (65.047%)
+
+Validation Epoch: Epoch loss: 0.4391, Accuracy: 679/844 (80.450%)
+
+Validation Epoch: Epoch loss: 0.0209, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.0010, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0001, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.2865, Accuracy: 743/844 (88.033%)
+
+Validation Epoch: Epoch loss: 0.0340, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 1.0900, Accuracy: 413/844 (48.934%)
+
+Validation Epoch: Epoch loss: 0.0071, Accuracy: 843/844 (99.882%)
+
+Validation Epoch: Epoch loss: 0.5820, Accuracy: 618/844 (73.223%)
+
+Validation Epoch: Epoch loss: 0.0627, Accuracy: 832/844 (98.578%)
+
+Validation Epoch: Epoch loss: 0.0015, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 2.9360, Accuracy: 84/844 (9.953%)
+
+Validation Epoch: Epoch loss: 0.0054, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0009, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0010, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.4727, Accuracy: 656/844 (77.725%)
+
+Validation Epoch: Epoch loss: 0.0554, Accuracy: 836/844 (99.052%)
+
+Validation Epoch: Epoch loss: 0.1412, Accuracy: 801/844 (94.905%)
+
+Validation Epoch: Epoch loss: 0.1774, Accuracy: 787/844 (93.246%)
+
+Validation Epoch: Epoch loss: 0.0001, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0012, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0507, Accuracy: 836/844 (99.052%)
+
+Validation Epoch: Epoch loss: 0.0315, Accuracy: 837/844 (99.171%)
+
+Validation Epoch: Epoch loss: 1.6291, Accuracy: 318/844 (37.678%)
+
+Validation Epoch: Epoch loss: 0.6151, Accuracy: 610/844 (72.275%)
+
+Validation Epoch: Epoch loss: 0.1350, Accuracy: 799/844 (94.668%)
+
+Validation Epoch: Epoch loss: 0.0013, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0273, Accuracy: 840/844 (99.526%)
+
+Validation Epoch: Epoch loss: 0.0018, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0294, Accuracy: 838/844 (99.289%)
+
+Validation Epoch: Epoch loss: 0.0382, Accuracy: 841/844 (99.645%)
+
+Validation Epoch: Epoch loss: 0.0450, Accuracy: 833/844 (98.697%)
+
+Validation Epoch: Epoch loss: 0.0006, Accuracy: 844/844 (100.000%)
+
+Validation Epoch: Epoch loss: 0.1619, Accuracy: 1574/1680 (93.690%)
+
+Validation Epoch: Epoch loss: 0.1479, Accuracy: 1592/1680 (94.762%)
+
+Validation Epoch: Epoch loss: 0.1273, Accuracy: 1599/1680 (95.179%)
+
+Validation Epoch: Epoch loss: 0.1642, Accuracy: 1578/1680 (93.929%)
+
+Validation Epoch: Epoch loss: 0.0464, Accuracy: 1654/1680 (98.452%)
+
+Validation Epoch: Epoch loss: 0.0235, Accuracy: 1667/1680 (99.226%)
+
+Validation Epoch: Epoch loss: 0.0571, Accuracy: 1646/1680 (97.976%)
+
+Validation Epoch: Epoch loss: 0.0181, Accuracy: 1670/1680 (99.405%)
+
+Validation Epoch: Epoch loss: 0.0070, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0162, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0083, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0076, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0086, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0066, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0133, Accuracy: 1671/1680 (99.464%)
+
+Validation Epoch: Epoch loss: 0.0173, Accuracy: 1670/1680 (99.405%)
+
+Validation Epoch: Epoch loss: 0.0280, Accuracy: 1662/1680 (98.929%)
+
+Validation Epoch: Epoch loss: 0.0087, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0247, Accuracy: 1665/1680 (99.107%)
+
+Validation Epoch: Epoch loss: 0.0108, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0124, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0057, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0121, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0548, Accuracy: 1643/1680 (97.798%)
+
+Validation Epoch: Epoch loss: 0.0306, Accuracy: 1668/1680 (99.286%)
+
+Validation Epoch: Epoch loss: 0.0071, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0046, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0562, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.0072, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0047, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0056, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0059, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0089, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0163, Accuracy: 1673/1680 (99.583%)
+
+Validation Epoch: Epoch loss: 0.0076, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0035, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0209, Accuracy: 1667/1680 (99.226%)
+
+Validation Epoch: Epoch loss: 0.0080, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0065, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0072, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0049, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0167, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0066, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0097, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0333, Accuracy: 1660/1680 (98.810%)
+
+Validation Epoch: Epoch loss: 0.0084, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0099, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0070, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0204, Accuracy: 1667/1680 (99.226%)
+
+Validation Epoch: Epoch loss: 0.0080, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0054, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0121, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0082, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0077, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0059, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0072, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0042, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0317, Accuracy: 1657/1680 (98.631%)
+
+Validation Epoch: Epoch loss: 0.0158, Accuracy: 1671/1680 (99.464%)
+
+Validation Epoch: Epoch loss: 0.0028, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0088, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0118, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0145, Accuracy: 1671/1680 (99.464%)
+
+Validation Epoch: Epoch loss: 0.0027, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0053, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0074, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0040, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0110, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0051, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.3036, Accuracy: 1439/1680 (85.655%)
+
+Validation Epoch: Epoch loss: 0.3244, Accuracy: 1469/1680 (87.440%)
+
+Validation Epoch: Epoch loss: 0.0475, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.3257, Accuracy: 1459/1680 (86.845%)
+
+Validation Epoch: Epoch loss: 0.0531, Accuracy: 1643/1680 (97.798%)
+
+Validation Epoch: Epoch loss: 0.1842, Accuracy: 1563/1680 (93.036%)
+
+Validation Epoch: Epoch loss: 0.0986, Accuracy: 1626/1680 (96.786%)
+
+Validation Epoch: Epoch loss: 0.0182, Accuracy: 1670/1680 (99.405%)
+
+Validation Epoch: Epoch loss: 0.0197, Accuracy: 1671/1680 (99.464%)
+
+Validation Epoch: Epoch loss: 0.0487, Accuracy: 1647/1680 (98.036%)
+
+Validation Epoch: Epoch loss: 0.0097, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0220, Accuracy: 1668/1680 (99.286%)
+
+Validation Epoch: Epoch loss: 0.0178, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0195, Accuracy: 1669/1680 (99.345%)
+
+Validation Epoch: Epoch loss: 0.0225, Accuracy: 1667/1680 (99.226%)
+
+Validation Epoch: Epoch loss: 0.0101, Accuracy: 1673/1680 (99.583%)
+
+Validation Epoch: Epoch loss: 0.0767, Accuracy: 1640/1680 (97.619%)
+
+Validation Epoch: Epoch loss: 0.0074, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0171, Accuracy: 1670/1680 (99.405%)
+
+Validation Epoch: Epoch loss: 0.0073, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0064, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0028, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0160, Accuracy: 1666/1680 (99.167%)
+
+Validation Epoch: Epoch loss: 0.0038, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0042, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0123, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0740, Accuracy: 1633/1680 (97.202%)
+
+Validation Epoch: Epoch loss: 0.0155, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0020, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0210, Accuracy: 1663/1680 (98.988%)
+
+Validation Epoch: Epoch loss: 0.0036, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0042, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0060, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0088, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0047, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0067, Accuracy: 1675/1680 (99.702%)
+
+Validation Epoch: Epoch loss: 0.0071, Accuracy: 1676/1680 (99.762%)
+
+Validation Epoch: Epoch loss: 0.0372, Accuracy: 1660/1680 (98.810%)
+
+Validation Epoch: Epoch loss: 0.0020, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0029, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0023, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0013, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0057, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0131, Accuracy: 1674/1680 (99.643%)
+
+Validation Epoch: Epoch loss: 0.0028, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0044, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0020, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.2208, Accuracy: 1526/1680 (90.833%)
+
+Validation Epoch: Epoch loss: 0.1714, Accuracy: 1565/1680 (93.155%)
+
+Validation Epoch: Epoch loss: 0.0543, Accuracy: 1651/1680 (98.274%)
+
+Validation Epoch: Epoch loss: 0.1689, Accuracy: 1582/1680 (94.167%)
+
+Validation Epoch: Epoch loss: 0.0700, Accuracy: 1623/1680 (96.607%)
+
+Validation Epoch: Epoch loss: 0.1797, Accuracy: 1572/1680 (93.571%)
+
+Validation Epoch: Epoch loss: 0.0807, Accuracy: 1614/1664 (96.995%)
+
+Validation Epoch: Epoch loss: 0.2490, Accuracy: 1509/1664 (90.685%)
+
+Validation Epoch: Epoch loss: 0.0138, Accuracy: 1659/1664 (99.700%)
+
+Validation Epoch: Epoch loss: 0.0352, Accuracy: 1642/1664 (98.678%)
+
+Validation Epoch: Epoch loss: 0.0960, Accuracy: 1593/1664 (95.733%)
+
+Validation Epoch: Epoch loss: 0.0224, Accuracy: 1650/1664 (99.159%)
+
+Validation Epoch: Epoch loss: 0.0210, Accuracy: 1652/1664 (99.279%)
+
+Validation Epoch: Epoch loss: 0.0222, Accuracy: 1656/1664 (99.519%)
+
+Validation Epoch: Epoch loss: 0.0981, Accuracy: 1591/1664 (95.613%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Test set: Average loss: 0.0220, Accuracy: 1416/1536 (92.188%)
+
+Validation Epoch: Epoch loss: 0.3638, Accuracy: 1425/1680 (84.821%)
+
+Validation Epoch: Epoch loss: 0.1246, Accuracy: 1591/1680 (94.702%)
+
+Validation Epoch: Epoch loss: 0.0647, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.0724, Accuracy: 1627/1680 (96.845%)
+
+Validation Epoch: Epoch loss: 0.0596, Accuracy: 1646/1680 (97.976%)
+
+Validation Epoch: Epoch loss: 0.0744, Accuracy: 1637/1680 (97.440%)
+
+Test set: Average loss: 0.0069, Accuracy: 1475/1536 (96.029%)
+
+Test set: Average loss: 0.0380, Accuracy: 1188/1536 (77.344%)
+
+Test set: Average loss: 0.0083, Accuracy: 1452/1536 (94.531%)
+
+Test set: Average loss: 0.0112, Accuracy: 1458/1536 (94.922%)
+
+Test set: Average loss: 0.0139, Accuracy: 1381/1536 (89.909%)
+
+Test set: Average loss: 0.0174, Accuracy: 1358/1536 (88.411%)
+
+Validation Epoch: Epoch loss: 0.0739, Accuracy: 1625/1680 (96.726%)
+
+Validation Epoch: Epoch loss: 0.0466, Accuracy: 1659/1680 (98.750%)
+
+Validation Epoch: Epoch loss: 0.1980, Accuracy: 1550/1680 (92.262%)
+
+Validation Epoch: Epoch loss: 0.0224, Accuracy: 1668/1680 (99.286%)
+
+Validation Epoch: Epoch loss: 0.0231, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0259, Accuracy: 1673/1680 (99.583%)
+
+Validation Epoch: Epoch loss: 0.1206, Accuracy: 1611/1680 (95.893%)
+
+Validation Epoch: Epoch loss: 0.0510, Accuracy: 1644/1680 (97.857%)
+
+Validation Epoch: Epoch loss: 0.2926, Accuracy: 1496/1680 (89.048%)
+
+Validation Epoch: Epoch loss: 0.0661, Accuracy: 1642/1680 (97.738%)
+
+Validation Epoch: Epoch loss: 0.0172, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0133, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.2743, Accuracy: 1535/1680 (91.369%)
+
+Validation Epoch: Epoch loss: 0.0693, Accuracy: 1635/1680 (97.321%)
+
+Validation Epoch: Epoch loss: 0.0536, Accuracy: 1636/1680 (97.381%)
+
+Validation Epoch: Epoch loss: 0.0312, Accuracy: 1661/1680 (98.869%)
+
+Validation Epoch: Epoch loss: 0.0203, Accuracy: 1673/1680 (99.583%)
+
+Validation Epoch: Epoch loss: 0.0191, Accuracy: 1669/1680 (99.345%)
+
+Validation Epoch: Epoch loss: 0.3014, Accuracy: 1457/1680 (86.726%)
+
+Validation Epoch: Epoch loss: 0.0131, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0095, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0467, Accuracy: 1661/1680 (98.869%)
+
+Validation Epoch: Epoch loss: 0.0167, Accuracy: 1670/1680 (99.405%)
+
+Validation Epoch: Epoch loss: 0.0350, Accuracy: 1657/1680 (98.631%)
+
+Validation Epoch: Epoch loss: 0.0721, Accuracy: 1635/1680 (97.321%)
+
+Validation Epoch: Epoch loss: 0.0424, Accuracy: 1666/1680 (99.167%)
+
+Validation Epoch: Epoch loss: 0.0299, Accuracy: 1667/1680 (99.226%)
+
+Validation Epoch: Epoch loss: 0.0394, Accuracy: 1661/1680 (98.869%)
+
+Validation Epoch: Epoch loss: 0.0653, Accuracy: 1637/1680 (97.440%)
+
+Validation Epoch: Epoch loss: 0.0189, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0595, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.0105, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0439, Accuracy: 1663/1680 (98.988%)
+
+Validation Epoch: Epoch loss: 0.0421, Accuracy: 1655/1680 (98.512%)
+
+Validation Epoch: Epoch loss: 0.0484, Accuracy: 1661/1680 (98.869%)
+
+Validation Epoch: Epoch loss: 0.0989, Accuracy: 1628/1680 (96.905%)
+
+Validation Epoch: Epoch loss: 0.2315, Accuracy: 1526/1680 (90.833%)
+
+Validation Epoch: Epoch loss: 0.1714, Accuracy: 1562/1680 (92.976%)
+
+Validation Epoch: Epoch loss: 0.0415, Accuracy: 1658/1680 (98.690%)
+
+Validation Epoch: Epoch loss: 0.0986, Accuracy: 1613/1680 (96.012%)
+
+Validation Epoch: Epoch loss: 0.0219, Accuracy: 1668/1680 (99.286%)
+
+Validation Epoch: Epoch loss: 0.0550, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.0700, Accuracy: 1629/1680 (96.964%)
+
+Validation Epoch: Epoch loss: 0.0524, Accuracy: 1659/1680 (98.750%)
+
+Validation Epoch: Epoch loss: 0.0990, Accuracy: 1616/1680 (96.190%)
+
+Validation Epoch: Epoch loss: 0.0713, Accuracy: 1629/1680 (96.964%)
+
+Validation Epoch: Epoch loss: 0.0422, Accuracy: 1654/1680 (98.452%)
+
+Validation Epoch: Epoch loss: 0.7036, Accuracy: 1253/1680 (74.583%)
+
+Validation Epoch: Epoch loss: 0.0248, Accuracy: 1668/1680 (99.286%)
+
+Validation Epoch: Epoch loss: 0.0445, Accuracy: 1656/1680 (98.571%)
+
+Validation Epoch: Epoch loss: 0.0499, Accuracy: 1650/1680 (98.214%)
+
+Validation Epoch: Epoch loss: 0.0315, Accuracy: 1662/1680 (98.929%)
+
+Validation Epoch: Epoch loss: 0.0757, Accuracy: 1641/1680 (97.679%)
+
+Validation Epoch: Epoch loss: 0.2078, Accuracy: 1552/1680 (92.381%)
+
+Validation Epoch: Epoch loss: 0.1492, Accuracy: 1579/1680 (93.988%)
+
+Validation Epoch: Epoch loss: 0.0619, Accuracy: 1642/1680 (97.738%)
+
+Validation Epoch: Epoch loss: 0.0321, Accuracy: 1665/1680 (99.107%)
+
+Validation Epoch: Epoch loss: 0.0120, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0424, Accuracy: 1658/1680 (98.690%)
+
+Validation Epoch: Epoch loss: 0.0245, Accuracy: 1672/1680 (99.524%)
+
+Validation Epoch: Epoch loss: 0.0409, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.1099, Accuracy: 1621/1680 (96.488%)
+
+Validation Epoch: Epoch loss: 0.0243, Accuracy: 1667/1680 (99.226%)
+
+Validation Epoch: Epoch loss: 0.0488, Accuracy: 1644/1680 (97.857%)
+
+Validation Epoch: Epoch loss: 0.0631, Accuracy: 1646/1680 (97.976%)
+
+Validation Epoch: Epoch loss: 0.0412, Accuracy: 1657/1680 (98.631%)
+
+Validation Epoch: Epoch loss: 0.0560, Accuracy: 1649/1680 (98.155%)
+
+Validation Epoch: Epoch loss: 0.0890, Accuracy: 1618/1680 (96.310%)
+
+Validation Epoch: Epoch loss: 0.0603, Accuracy: 1648/1680 (98.095%)
+
+Validation Epoch: Epoch loss: 0.0406, Accuracy: 1639/1664 (98.498%)
+
+Validation Epoch: Epoch loss: 0.0469, Accuracy: 1631/1664 (98.017%)
+
+Validation Epoch: Epoch loss: 0.0701, Accuracy: 1621/1664 (97.416%)
+
+Validation Epoch: Epoch loss: 0.0320, Accuracy: 1641/1664 (98.618%)
+
+Validation Epoch: Epoch loss: 0.1119, Accuracy: 1592/1664 (95.673%)
+
+Validation Epoch: Epoch loss: 0.0105, Accuracy: 1659/1664 (99.700%)
+
+Validation Epoch: Epoch loss: 0.0845, Accuracy: 1606/1664 (96.514%)
+
+Validation Epoch: Epoch loss: 0.0326, Accuracy: 1648/1664 (99.038%)
+
+Validation Epoch: Epoch loss: 0.0656, Accuracy: 1620/1664 (97.356%)
+
+Validation Epoch: Epoch loss: 0.2919, Accuracy: 1493/1664 (89.724%)
+
+Validation Epoch: Epoch loss: 0.0270, Accuracy: 1646/1664 (98.918%)
+
+Validation Epoch: Epoch loss: 0.0363, Accuracy: 1636/1664 (98.317%)
+
+Validation Epoch: Epoch loss: 0.0172, Accuracy: 1655/1664 (99.459%)
+
+Validation Epoch: Epoch loss: 0.0183, Accuracy: 1655/1664 (99.459%)
+
+Validation Epoch: Epoch loss: 0.0417, Accuracy: 1642/1664 (98.678%)
+
+Validation Epoch: Epoch loss: 0.0691, Accuracy: 1622/1664 (97.476%)
+
+Validation Epoch: Epoch loss: 0.1278, Accuracy: 1579/1664 (94.892%)
+
+Validation Epoch: Epoch loss: 0.0429, Accuracy: 1632/1664 (98.077%)
+
+Validation Epoch: Epoch loss: 0.1110, Accuracy: 1598/1664 (96.034%)
+
+Validation Epoch: Epoch loss: 0.1089, Accuracy: 1600/1664 (96.154%)
+
+Validation Epoch: Epoch loss: 0.0036, Accuracy: 1663/1664 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0024, Accuracy: 1663/1664 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0014, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0014, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0024, Accuracy: 1663/1664 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0026, Accuracy: 1663/1664 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0011, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0011, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0021, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0011, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 1663/1664 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0029, Accuracy: 1662/1664 (99.880%)
+
+Validation Epoch: Epoch loss: 0.0018, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 1661/1664 (99.820%)
+
+Validation Epoch: Epoch loss: 0.0025, Accuracy: 1662/1664 (99.880%)
+
+Validation Epoch: Epoch loss: 0.0014, Accuracy: 1664/1664 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0049, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0030, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0034, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0043, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0023, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0023, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0024, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0024, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0019, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0018, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0032, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0025, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0033, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0035, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0026, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0047, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0060, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0062, Accuracy: 1677/1680 (99.821%)
+
+Validation Epoch: Epoch loss: 0.0027, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0023, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0016, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0048, Accuracy: 1678/1680 (99.881%)
+
+Validation Epoch: Epoch loss: 0.0027, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0031, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0049, Accuracy: 1679/1680 (99.940%)
+
+Validation Epoch: Epoch loss: 0.0029, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0045, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0027, Accuracy: 1680/1680 (100.000%)
+
+Validation Epoch: Epoch loss: 0.0021, Accuracy: 1680/1680 (100.000%)
