@@ -4,6 +4,7 @@ Class Activation Mapping For MRI image
 import os
 
 from torch.backends import cudnn
+from torch.utils.tensorboard import SummaryWriter
 
 from CAMGen import *
 from HCPLoader import *
@@ -52,8 +53,9 @@ if TRAIN:
     print("Total Train Dataset: {}, with {}({}) as validation".format(len(train_loader.dataset),
                                                                       len(valid_loader) * BATCH_SIZE, RATIO))
 # load test data
-test_loader = test_loader(source, transform_test)
-print("Total Test Dataset: {}".format(len(test_loader.dataset)))
+if TEST:
+    test_loader = test_loader(source, transform_test)
+    print("Total Test Dataset: {}".format(len(test_loader.dataset)))
 
 
 def runOnce():
@@ -97,21 +99,21 @@ def runOnce():
     if TRAIN:
         print("start training")
         train(net, train_loader, valid_loader)
-    else:
+    elif TEST:
         print("Using pretrained network, testing only")
         test(test_loader, net)
-        # CAM
-        if CAM:
-            print("hook feature extractor")
-            # hook the feature extractor
-            features_blobs = []
+    # CAM
+    if CAM:
+        print("hook feature extractor")
+        # hook the feature extractor
+        features_blobs = []
 
-            net._modules.get(final_conv).register_forward_hook(hook_feature)
-            cam_dir = "camIn"
-            for root, subdirs, files in os.walk(cam_dir):
-                for file in files:
-                    get_cam(net, features_blobs, os.path.join(root, file))
-                    # get_cam(net, features_blobs, os.path.join(root, file))
+        net._modules.get(final_conv).register_forward_hook(hook_feature)
+        cam_dir = "camIn"
+        for root, subdirs, files in os.walk(cam_dir):
+            for file in files:
+                get_cam(net, features_blobs, os.path.join(root, file))
+                # get_cam(net, features_blobs, os.path.join(root, file))
 
 
 if __name__ == "__main__":

@@ -1,4 +1,5 @@
 
+
 # CAM-dMRI
 This repository uses Class Activation Mapping on diffusion MRI data, implemented in PyTorch.
 
@@ -26,8 +27,8 @@ Then, run
 - Preprocess using 'data.py', to create slices.
 - Divde the total dataset into train group and test group. As you do that, [images must be arranged in this way][4]:
   ```
-  ../DATA/train/old/*.png
-  ../DATA/test/young/*.png
+  ../DATA/HCP/16x3_slice/train/old/*.png
+  ../DATA/HCP/16x3_slice/test/young/*.png
   ```
   
 **Checkpoint**
@@ -37,3 +38,5 @@ Then, run
   [1]: https://arxiv.org/abs/1512.04150
   [2]: https://github.com/metalbubble/CAM
 
+**Visualization**
+run `tensorboard --logdir runs/` to visualize in browser.
