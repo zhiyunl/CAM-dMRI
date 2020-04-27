@@ -8,9 +8,9 @@ classes = {0: 'young', 1: 'old'}
 # TODO
 CAM = True
 USE_CUDA = torch.cuda.is_available()
-RESUME = 40
+RESUME = 70
 EPOCH = 700
-TRAIN = True
+TRAIN = False
 MODELS = ['alexnet', 'alexnet-bn', 'googlenet', 'googlenet-gmp', 'vgg', 'inception']  #
 ModelN = "new"
 source = "../DATA/HCP/16x3_slice/"

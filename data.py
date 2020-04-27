@@ -34,6 +34,7 @@ def visualize(data):
 
 
 def visualize3D(FA):
+
     # plt.figure('FA')
     # ax = plt.axes(projection="3d")
     # plt.show()
@@ -129,28 +130,26 @@ def FA2Npy(source, file, des):
 
 def preDataset():
     view = False
-    source = "~/MIA-Proj/DATA/HCP/unproc/"
-
-    # nii.gz to FA
-    desFA = "~/MIA-Proj/DATA/HCP/proc/"
+    source = "/home/zhiyunl/MIA-Proj/DATA/HCP/unproc/"
+    desFA = "/home/zhiyunl/MIA-Proj/DATA/HCP/proc/"
+    desSlice = "/home/zhiyunl/MIA-Proj/DATA/HCP/16x3_mgh35/"
+    desNpy = "/home/zhiyunl/MIA-Proj/DATA/HCP/npy/"
     if not os.path.exists(desFA):
         os.mkdir(desFA)
     for file in os.listdir(source):
         if file.endswith(".bval"):
             raw2FA(source, file, desFA)
-
-    # FA to Slice
-    desSlice = "~/MIA-Proj/DATA/HCP/16x3_slice"
+    # raw2FA(source,"LS3019_3T_DWI_dir80_LR.bval",des)
     if not os.path.exists(desSlice):
         os.mkdir(desSlice)
-    with open(source + '27slice.csv', newline='') as csvfile:
+    with open(source + '35MGH.csv', newline='') as csvfile:
         labelreader = csv.reader(csvfile)
         labelDict = {rows[0]: rows[2] for rows in labelreader}
-    # mapping = {"20-24":0,"25-29":1,"30-34":2,"35-39":3,"40-44":4,"45-59":5}
-    mapping = {"8-9": "young", "14-15": "young", "25-35": "old", "45-55": "old", "65-75": "old"}
+    mapping = {"20-24": 0, "25-29": 1, "30-34": 2, "35-39": 3, "40-44": 4, "45-59": 5}
+    # mapping = {"8-9": "young", "14-15": "young", "25-35": "old", "45-55": "old", "65-75": "old"}
     for file in os.listdir(desFA):
-        label = mapping[labelDict[file[:6]]]  # LS2001
-        # label = labelDict[file[:8]] # MGH_1001
+        # label = mapping[labelDict[file[:6]]] # LS2001
+        label = labelDict[file[:8]]  # MGH_1001
         if view:
             FA, affine = load_nifti(source + file)
             visualize3D(FA)
@@ -158,7 +157,6 @@ def preDataset():
         else:
             FA2Slice(desFA, file, desSlice + label + "/", dir=3)
 
-    # desNpy = "~/MIA-Proj/DATA/HCP/npy/"
     # if not os.path.exists(desNpy):
     #     os.mkdir(desNpy)
     # for file in os.listdir(desFA):

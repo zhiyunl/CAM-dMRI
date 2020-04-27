@@ -116,20 +116,20 @@ def runOnce():
 
 if __name__ == "__main__":
     # train all models
-    # for i in range(len(MODELS)):
-    #     ModelN = MODELS[i]
-    #     setPara("ModelN", ModelN)
-    #     LOGDIR = "runs/{}".format(MODELS[i])
-    #     setPara("LOGDIR", LOGDIR)
-    #     writer = SummaryWriter(LOGDIR,  comment=str(RESUME) + "_" + str(EPOCH)) # purge_step=RESUME + 1,
-    #     setPara("writer", writer)
-    #     runOnce()
-    #     writer.close()
-    ModelN = "vgg"
-    setPara("ModelN", ModelN)
-    LOGDIR = "runs/{}".format(ModelN)
-    setPara("LOGDIR", LOGDIR)
-    writer = SummaryWriter(LOGDIR, comment=str(RESUME) + "_" + str(EPOCH))  # purge_step=RESUME + 1,
-    setPara("writer", writer)
-    runOnce()
-    writer.close()
+    for i in range(len(MODELS)):
+        ModelN = MODELS[i]
+        setPara("ModelN", ModelN)
+        LOGDIR = "runs/{}".format(MODELS[i])
+        setPara("LOGDIR", LOGDIR)
+        writer = SummaryWriter(LOGDIR, comment=str(RESUME) + "_" + str(EPOCH))  # purge_step=RESUME + 1,
+        setPara("writer", writer)
+        runOnce()
+        writer.close()
+    # ModelN = "vgg"
+    # setPara("ModelN", ModelN)
+    # LOGDIR = "runs/{}".format(ModelN)
+    # setPara("LOGDIR", LOGDIR)
+    # writer = SummaryWriter(LOGDIR,  comment=str(RESUME) + "_" + str(EPOCH)) # purge_step=RESUME + 1,
+    # setPara("writer", writer)
+    # runOnce()
+    # writer.close()
